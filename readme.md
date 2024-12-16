@@ -13,7 +13,7 @@ Esta é uma API desenvolvida em Node.js utilizando TypeORM, MySQL e typescript p
 1. Clone o repositório:
 
 ```bash
-git clone 
+git clone https://github.com/AuzendeGBR/backend
 ```
 
 2. Instale as dependências:
